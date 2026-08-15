@@ -1,3 +1,5 @@
+
+
 # Python AI 学习项目
 
 这是一个用于学习 Python 和人工智能相关知识的项目。
@@ -43,6 +45,7 @@ pip install -r requirements.txt
 ### 3. 启动 Jupyter Notebook
 
 ```bash
+# 请确保已在当前终端激活了虚拟环境
 jupyter notebook
 ```
 
@@ -82,4 +85,3 @@ jupyter notebook
 ## 许可证
 
 ISC
-
